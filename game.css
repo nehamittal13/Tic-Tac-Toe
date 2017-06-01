@@ -1,0 +1,11 @@
+*{
+	text-align: center;
+}
+
+body{
+	padding: 20px 40px;
+}
+
+.btn-small{
+	padding: 10px 16px;
+}
